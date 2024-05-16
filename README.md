@@ -8,8 +8,8 @@ A dedicated learner of the latest tools and methodologies committed to applying 
 - 🔭 I’m currently working at R&D Center "Applied Logistics" as Head of Advanced Development Center
 - 🌱 I’ve just graduated from Yandex Practicum Data Science educational course
 - 👯 I’m looking to collaborate on Data Science
-- ⚡ Fun fact 1: I have MBA and PhD degree (IT in manufacturing) 
-- ⚡ Fun fact 2: i've been involved as a ASD S3000L Steering Committee observer about five years (Russian representative)
+- ⚡ Bio fact 1: I have MBA and PhD degree (IT in manufacturing) 
+- ⚡ Bio fact 2: i've been involved as a ASD S3000L Steering Committee observer about five years (Russian representative)
 - 📫 How to reach me: https://t.me/dmitryBorozdin
 
 ###### Engineering and Buisiness: 
