@@ -22,8 +22,8 @@ Python, Pandas, Numpy, Matplotlib, Scikit-learn, TensorFlow, Keras
 PostgreSQL, Oracle
 
 ###### Languages: 
-C++, Python, Javascript 
+C++, Python, Javascript, VueJs (basic), Java (basic) 
 
 ###### Operating Systems: 
-AstraLinux, Windows 
+AstraLinux, Windows, Android (basic)
 
